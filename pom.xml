@@ -108,7 +108,7 @@
    <dependency>
      <groupId>com.fasterxml.jackson.core</groupId>
      <artifactId>jackson-databind</artifactId>
-     <version>2.5.0</version>
+     <version>2.13.4.1</version>
    </dependency>
    
      <!-- json 转换  start springDemo方法一中才用得到此包-->
